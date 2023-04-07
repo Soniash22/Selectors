@@ -1,0 +1,36 @@
+
+
+.all {
+    background-color: rgb(0, 132, 255);
+    color: aliceblue;
+}
+.websites {
+    background-color: rgb(189, 189, 189);
+}
+.add {
+    background-color: rgb(189, 189, 189);
+}
+.design {
+    background-color: rgb(189, 189, 189);
+}
+.marketing {
+    background-color: rgb(189, 189, 189);
+}
+
+.footer {
+    background-color: rgb(24, 21, 44);
+
+}
+
+ 
+ .logo span {
+    color: rgb(0, 89, 225);
+ }
+
+ .footer span {
+    color: rgb(0, 89, 255);
+ }
+
+ .footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
